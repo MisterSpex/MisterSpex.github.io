@@ -1,7 +1,7 @@
 title: Tech@MisterSpex
 email: your-email@example.com
 description: Tech@MisterSpex
-baseurl: "http://misterspex.tech" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://misterspex.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: msxtech
 github_username:  misterspex
@@ -9,7 +9,7 @@ github_username:  misterspex
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
 
 gems: ['jekyll-twitter-plugin']
