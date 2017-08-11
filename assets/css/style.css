@@ -2,7 +2,11 @@ body {
   background-color: #292F33;
 }
 
+section {
+  width: 500px;
+  margin: 10px;
+}
+
 #timeline {
-  margin: auto;
-    width: 500px;
+
 }
